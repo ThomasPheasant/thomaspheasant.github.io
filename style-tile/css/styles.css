@@ -1,0 +1,60 @@
+/***************/
+/* YOUR STYLES */
+/***************/
+
+/* Color Palette */
+.color-1 {
+    background: red;
+}
+
+.color-2 {
+    background: white;
+}
+
+.color-3 {
+    background: blue;
+}
+
+/* Textures or Patterns*/
+.pattern-1 {
+    background: url("../img/flag.png");
+}
+
+.pattern-2 {
+    background: url("../img/feathers.jpg");
+}
+
+
+
+/* Imagery */
+
+
+/* Icons */
+
+
+/* Navigation */
+a:link, 
+a:visited {
+    color: blue;
+    text-transform: uppercase;
+}
+
+a:hover {
+    background: red;
+    margin-left: 10px;
+}
+
+a:active {
+    color: white;
+    background: blue;
+}
+
+/* Typography */
+
+p {
+    font-family: 'Lobster', cursive;
+}
+
+
+
+
