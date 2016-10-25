@@ -4,26 +4,40 @@
 
 /* Color Palette */
 .color-1 {
-    background: red;
+    background: #154360;
 }
 
 .color-2 {
-    background: white;
+    background: #2E86C1;
 }
 
 .color-3 {
-    background: blue;
+    background: #A9CCE3 ;
+}
+.color-4 {
+    background: white ;
+}
+.color-5 {
+    background: #99A3A4 ;
 }
 
 /* Textures or Patterns*/
 .pattern-1 {
-    background: url("../img/flag.png");
+    background: url("../img/fabric.png");
 }
 
 .pattern-2 {
-    background: url("../img/feathers.jpg");
+    background: url("../img/fabric2.png");
 }
-
+.pattern-3 {
+    background: url("../img/fabric3.png");
+}
+.pattern-4 {
+    background: url("../img/fabric4.png");
+}
+.pattern-5 {
+    background: url("../img/fabric5.png");
+}
 
 
 /* Imagery */
@@ -35,12 +49,12 @@
 /* Navigation */
 a:link, 
 a:visited {
-    color: blue;
-    text-transform: uppercase;
+    color: royalblue;
+    
 }
 
 a:hover {
-    background: red;
+    background: crimson;
     margin-left: 10px;
 }
 
@@ -52,7 +66,7 @@ a:active {
 /* Typography */
 
 p {
-    font-family: 'Lobster', cursive;
+    font-family: 'Helvetica', cursive;
 }
 
 
