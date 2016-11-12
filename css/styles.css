@@ -95,7 +95,7 @@ header .profile-image:hover {
   border-radius: 6px;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: red;
 }
 
 ul.skills {
