@@ -79,8 +79,8 @@ header .profile-image:hover {
 /* Logo Header */
 header .logo-image {
   margin-top: 50px;
-  width: 150px;
-  height: 150px;
+  width: 288px;
+  height: 156px;
   border-radius: 50%;
   border: 3px solid white;
   transition: all .5s;
