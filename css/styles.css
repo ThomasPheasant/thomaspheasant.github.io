@@ -81,7 +81,6 @@ header .logo-image {
   margin-top: 50px;
   width: 288px;
   height: 156px;
-  border-radius: 50%;
   transition: all .5s;
 }
 header .logo-image:hover {
