@@ -164,12 +164,15 @@ a.social {
 }
 a.twitter {
   background-image: url("..img/home.png");
+  z-index:1;
 }
 a.linkedin {
   background-image: url("..img/game.png");
+  z-index:1;
 }
 a.github {
   background-image: url("..img/files.png");
+  z-index:1;
 }
 a.social:hover {
   opacity: 1;
