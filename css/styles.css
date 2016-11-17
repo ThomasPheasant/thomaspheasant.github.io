@@ -163,13 +163,13 @@ a.social {
   transition: all .25s;
 }
 a.twitter {
-  background-image: url("..img/");
+  background-image: url("..img/home.png");
 }
 a.linkedin {
-  background-image: url("images/linkedin.svg");
+  background-image: url("..img/game.png");
 }
 a.github {
-  background-image: url("images/github.svg");
+  background-image: url("..img/files.png");
 }
 a.social:hover {
   opacity: 1;
