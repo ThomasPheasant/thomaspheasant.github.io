@@ -162,18 +162,7 @@ a.social {
   opacity: .5;
   transition: all .25s;
 }
-a.twitter {
-  background-image: url("..img/home.png");
-  
-}
-a.facebook {
-  background-image: url("..img/game.png");
-  
-}
-a.github {
-  background-image: url("..img/files.png");
-  
-}
+ 
 a.social:hover {
   opacity: 1;
 }
