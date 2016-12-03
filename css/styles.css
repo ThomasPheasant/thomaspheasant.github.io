@@ -178,7 +178,7 @@ footer ul {
 footer ul li {
   display: inline-block;
 }
-
+/*-----------------------------------------------------------------------------------Social_CLASS---*/
 a.social {
   /*display: inline-block;*/
   text-indent: 0px;
@@ -193,12 +193,17 @@ a.social {
 a.social:hover {
   opacity: 1;
 }
-/*-----------------------------------------------------------------------------------ImageLinks_Start---*/
+/*-----------------------------------------------------------------------------------ImageLinks_CLASS---*/
 a.img{
-  height: 25px;
-  width: 25px;
+  text-indent: 0px;
+  margin-left: 5px;
+  height: 10px;
+  width: 10px;
+  background-size: 30px 30px;
+  opacity: .5;
+  transition: all .25s;
 }
-/*-----------------------------------------------------------------------------------ImageLinks_End---*/
+
 .clearfix {
   clear: both;
 }
