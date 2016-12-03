@@ -189,7 +189,6 @@ a.social {
   opacity: .5;
   transition: all .25s;
 }
- 
 a.social:hover {
   opacity: 1;
 }
@@ -203,7 +202,9 @@ a.img{
   opacity: .5;
   transition: all .25s;
 }
-
+a.img:hover {
+  opacity: 1;
+}
 .clearfix {
   clear: both;
 }
