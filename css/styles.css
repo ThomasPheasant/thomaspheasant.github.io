@@ -138,6 +138,24 @@ header .logo-image:hover {
 .card3:hover {
   border-color: red;
 }
+/*--------------------------------------------------------------------------------Portfolio_Image_Formatting------*/
+figure, figcaption{ /*add any other html5 elements you use*/
+display:block;
+}
+/***Now style the containing div that we gave the id 'polaroid'***/
+#polaroid{
+padding:20px 10px;
+/*setting a width and adding overflow:hidden will clear the floats we're going to apply to figure*/
+width:100%;
+overflow:hidden;
+}
+/***Position the figures containing the images and captions***/
+#polaroid figure{
+float:left; /*places the images in a horizontal line*/
+position:relative; /*allows precise positioning of the tape in step 5- see support section below for more info*/
+width:200px; /*width of the images*/
+margin:10px 20px; /*space between the images*/
+}
 /*--------------------------------------------------------------------------------------*/
 ul.skills {
   padding: 0;
