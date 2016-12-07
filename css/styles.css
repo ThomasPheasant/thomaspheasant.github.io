@@ -152,7 +152,7 @@ overflow:hidden;
 /***Position the figures containing the images and captions***/
 #polaroid figure{
 float:left; /*places the images in a horizontal line*/
-position:relative; /*allows precise positioning of the tape in step 5- see support section below for more info*/
+position:absolute; /*allows precise positioning of the tape in step 5- see support section below for more info*/
 width:200px; /*width of the images*/
 margin:10px 20px; /*space between the images*/
 }
