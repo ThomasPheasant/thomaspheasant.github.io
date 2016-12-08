@@ -63,18 +63,6 @@ header {
 header {
   line-height: 1.5;
 }
-/*-----------------------------------------------------------------------------------Header_Gradient1
-header2 {
-  text-align: center;
-  background-image: radial-gradient(circle at top right, #ffa949 0%, firebrick 50%, dodgerblue 100%);
-  background-size: cover;
-  overflow: hidden;
-  padding-top: 60px;
-}
-header2 {
-  line-height: 1.5;
-}
----*/
 /*------------------------------------------------------------------------------------Profile_Image_Header---*/
 header .profile-image {
   margin-top: 50px;
