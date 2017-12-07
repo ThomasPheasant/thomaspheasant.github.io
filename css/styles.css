@@ -1,3 +1,8 @@
+@import "normalize";
+@import "lightgallery";
+@import "lg-transitions";
+@import "uikit.min";
+
 /* Global Layout Set-up */
 * { 
   box-sizing: border-box;
@@ -52,10 +57,23 @@ a:hover {
 .nav a:hover {
   color: white
 }
-/*-----------------------------------------------------------------------------------Header_ Fabric1---*/
+/*-----------------------------------------------------------------------------------Header_ Fabric---*/
+.bg0 {
+  background: url("../img/fabric.png") repeat top center ;
+}
+
+.bg1 {
+  background: url("../img/fabric1.png") repeat top center ;
+}
+
+.bg2 {
+  background: url("../img/fabric2.png") repeat top center ;
+}
+header p{
+    
+}
 header {
   text-align: center;
-  background: url("../img/fabric.png") no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
