@@ -199,6 +199,11 @@ footer {
   padding: 20px 0 40px 20px;
 }
 
+footer img{
+    width: 25%;
+    height: 10%;
+}
+
 footer .copyright {
   top: -8px;
   margin-right: 20px;
