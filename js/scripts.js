@@ -1,8 +1,8 @@
 // Randomize Header
 //Store Headers
-var header0 = 'This is the portfolio portion of the website.';
-var header1 = 'All the images below are projects Ive done showing my ability and creativity.';
-var header2 = 'All images below were made by myself!';
+var header0 = 'I started out as a Computer Science Major, but then I turned to Visual Communication Design.';
+var header1 = "I'm hoping one day to get a job in LA!";
+var header2 = "I'm a college graduate of Eastern Washington University";
 
 // Store & Generate Number
 var maxRand = 3;
