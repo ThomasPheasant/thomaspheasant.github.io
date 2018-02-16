@@ -83,7 +83,7 @@ header {
 }
 /*------------------------------------------------------------------------------------Profile_Image_Header---*/
 header .profile-image {
-  margin-top: 50px;
+  margin-top: 15px;
   width: 150px;
   height: 150px;
   border-radius: 50%;
