@@ -97,8 +97,8 @@ header .profile-image:hover {
 /* Logo Header */
 header .logo-image {
   margin-top: 50px;
-  width: 288px;
-  height: 156px;
+  width: 235px;
+  height: 264px;
   transition: all .5s;
 }
 header .logo-image:hover {
